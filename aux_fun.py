@@ -58,4 +58,4 @@ def plot_validation_curve(estimator, title, X, y, param_name, param_range, scori
     plt.semilogx(param_range, test_scores_mean, 'o-', color="g",
              label="Cross-validation score")
     plt.legend(loc="best")
-    return plt
+    return param_range[np.argmax(test_scores_mean)], plt
