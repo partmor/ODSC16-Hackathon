@@ -1,7 +1,7 @@
 # ODSC16-Hackathon
 Models for "Hacking Global Health" hackathon
 
-## See results.pdf, that summarizes our approach :) 
+## See the [slides](results.pdf) that explain our approach, results and conclusions :) 
 
 > Owned by:
 > - Enrique Colin: enrique.colin@ebury.com
