@@ -1,11 +1,13 @@
 # ODSC16-Hackathon
-Models for "Hacking Global Health" hackathon
 
-## See the [slides](results.pdf) that explain our approach, results and conclusions :) 
+Models for the [ODSC Hacking Global Health](https://odsc.com/hack/hacking-global-health-london) hackathon. 
+We competed in the hackathon as Ebury's Data Team, and thanks to the great hard work of the team, we managed to become **winners** of the event! :)
 
-> Owned by:
-> - Enrique Colin: enrique.colin@ebury.com
-> - Antonio Malpica: antonio.malpica@ebury.com
-> - Pedro Morales: pedro.morales@ebury.com
-> - Inigo Cortajarena: inigo.cortajarena@ebury.com
-> - Vicente Laiseca: vicente.laiseca@ebury.com
+Our approach, results and conclusions are presented in these [slides](results.pdf).
+
+The team:
+- [Enrique Colin](https://github.com/qcolinb)
+- [Antonio Malpica](https://github.com/NonoMalpi)
+- [Pedro Morales](https://github.com/partmor)
+- [Inigo Cortajarena](https://github.com/Cortajarena)
+- [Vicente Laiseca](https://github.com/VicenteL)
